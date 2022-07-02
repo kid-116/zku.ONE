@@ -79,4 +79,4 @@ contract Purchase {
 ![](./background_assignment/smart_contracts/images/seller_succeeds.png)
 
 ## Links
-<!-- - [Background Assignment](https://docs.google.com/document/d/1EkelvfHdveddZ-wVLX-jiOMCK3NhqEi6NvF9pnCX_2o/edit?usp=sharing) -->
+[Background Assignment](https://docs.google.com/document/d/1EkelvfHdveddZ-wVLX-jiOMCK3NhqEi6NvF9pnCX_2o/edit?usp=sharing)
